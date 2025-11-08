@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: Password reset on 127.0.0.1:4444
+From: webmaster@localhost
+To: srivastavaryan182@gmail.com
+Date: Thu, 06 Nov 2025 04:41:13 -0000
+Message-ID: <176240407373.12196.5255978832614408497@Aryan-Srivastava-0>
+
+
+Hi aryan@123,
+
+You're receiving this email because a request was made to change the password for your account at 127.0.0.1:4444.
+
+Please go to the following page and choose a new password:
+
+http://127.0.0.1:4444/accounts/reset/Mg/cyucap-e6fe79a50875e893ad01f700c8b121b3/
+
+If you didn't request a password reset, you can safely ignore this email.
+
+Thanks,
+The PostX team
+
+
+-------------------------------------------------------------------------------
